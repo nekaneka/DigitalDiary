@@ -13,7 +13,7 @@
 **Installation**
 
     clone project from:
-    $ https://git01lab.cs.univie.ac.at/spba/2022ws/01650669-adem-mehremic.git
+    $ https://github.com/nekaneka/DigitalDiary.git
 
     open folder 01650669-adem-mehremic and change to Project branch by:
 
