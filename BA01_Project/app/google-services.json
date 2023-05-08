@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "142161209455",
+    "project_id": "fresh-ember-375213",
+    "storage_bucket": "fresh-ember-375213.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142161209455:android:3771ddcc00efeb98cd459a",
+        "android_client_info": {
+          "package_name": "com.spba.ediary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142161209455-gblgq92upemnk0btt7qreg4td5k5hqds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spba.ediary",
+            "certificate_hash": "d8c8273fe2054f113d3bb442d583747bbd5960be"
+          }
+        },
+        {
+          "client_id": "142161209455-5k6fs0vl4j9t940qpef8cqf2ce95s4l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiy2aKyBes4hQ-kBbtFgKCDwXzNpXhF3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142161209455-5k6fs0vl4j9t940qpef8cqf2ce95s4l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

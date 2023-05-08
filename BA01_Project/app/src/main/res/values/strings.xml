@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">E-Diary</string>
+    <string name="login_text">Log into your Account</string>
+    <string name="register_button_text">Register an Account</string>
+    <string name="app_logo">app_logo</string>
+    <string name="create_account">CREATE</string>
+
+
+    <string name="login_password">LogIn with password</string>
+    <string name="set_up_account">Set up Account</string>
+    <string name="name">name</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="enter_password">Enter password</string>
+    <string name="password_hint">Enter password</string>
+    <string name="fingerprint">Login with Fingerprint</string>
+    <string name="gallary">Gallary</string>
+
+
+</resources>
